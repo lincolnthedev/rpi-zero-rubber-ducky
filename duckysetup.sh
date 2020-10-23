@@ -50,4 +50,16 @@ ENTER
 DELAY 3000
 STRING https://www.youtube.com/watch?v=cE0wfjsybIQ
 ENTER
+GUI SPACE
+DELAY 100
+STRING Terminal
+DELAY 100
+ENTER
+DELAY 3000
+STRING osascript -e 'tell app "System Events" to display dialog "I have gotten into your computer! You are not safe!\n\nYou should be glad I am not evil!!" with icon caution'
+DELAY 500
+ENTER
+DELAY 100
+ENTER
+GUI m
 EOF
