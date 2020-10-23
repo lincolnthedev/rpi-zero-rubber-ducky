@@ -1,4 +1,4 @@
-# Raspberry-Pi-Zero-Rubber-Ducky-Duckberry-Pi
+# Raspberry Pi Zero Rubber Ducky
 
 ## Installation
 
