@@ -2,9 +2,9 @@
 
 ## Installation
 
-'''
+```
 wget https://raw.githubusercontent.com/lincolnthedev/rpi-zero-rubber-ducky/master/duckysetup.sh && chmod +x duckysetup.sh && sudo ./duckysetup.sh
-'''
+```
 
 ## Introduction
 ```
