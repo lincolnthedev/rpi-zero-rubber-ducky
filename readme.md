@@ -1,8 +1,10 @@
 # Raspberry-Pi-Zero-Rubber-Ducky-Duckberry-Pi
 
-Version 1.1
+## Installation
 
-A £10 Rubber Ducky USB HID!
+'''
+wget https://raw.githubusercontent.com/lincolnthedev/rpi-zero-rubber-ducky/master/duckysetup.sh && chmod +x duckysetup.sh && sudo ./duckysetup.sh
+'''
 
 ## Introduction
 ```
