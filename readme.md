@@ -1,5 +1,8 @@
 # Raspberry Pi Zero Rubber Ducky
 
+## Attention!
+Some parts of this code may not be complete or fully working. Use at your own risk!
+
 ## Installation
 
 ```
